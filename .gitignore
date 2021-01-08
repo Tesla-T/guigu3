@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+#设置不需要提交到本地库的文件
+target/
+*.iml
